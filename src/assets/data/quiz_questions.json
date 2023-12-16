@@ -1,0 +1,283 @@
+﻿{
+  "title": "Qual a sua classe em Dungeons & Dragons?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual o seu papel dentro de um time?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Tomo a frente e assumo a liderança do time",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ofereço suporte e ajudo os membros do time",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Prefiro trabalhar sozinho",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Procuro entender e resolver os problemas",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lida com situações difíceis?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Encaro a situação de frente",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Tento encorajar e acalmar as pessoas",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Encontro uma maneira de escapar",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Analiso a situação e monto um plano de ação",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual seu tipo preferido de arma?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Espadas",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Maças e martelos",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Adagas",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Cajados e varinhas",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual sua opinião sobre magia?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Prefiro usar minha força e habilidades",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Gosto de magias de cura",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Acho magia útil para encantar e iludir",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Sou fascinado pelas artes arcanas",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual ambiente você prefere?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Campos abertos",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Templos e locais de culto",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Centros urbanos",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Bibliotecas e locais de estudo",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você lida com conflitos?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Sou direto para tentar resolvê-los",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Tento negociar um acordo",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Prefiro evitar qualquer conflito",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Uso argumentos lógicos para convencer",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "O que te motiva a se aventurar?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Desejo provar minha força e coragem",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Busco ajudar os outros e tornar o mundo melhor",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Quero obter riqueza e tesouros",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Procuro conhecimento e resolver mistérios",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual habilidade você mais valoriza?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Força",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Sabedoria",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Destreza",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Inteligência",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como seria seu estilo de luta?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Avanço contra o inimigo de frente",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ofereço suporte aos meus aliados",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Uso de furtividade e ataco sem ser visto",
+          "alias": "C"
+        },
+        {
+          "id": 3,
+          "name": "Lanço magias à distância",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "O que você faz no seu tempo livre?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Treino minhas habilidades físicas",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Rezo e pratico meditação",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Participo de apostas e jogos de azar",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Leio livros e estudo",
+          "alias": "D"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": {
+      "description": "Guerreiro: Você é um perito no combate, capaz de lutar com diversos tipos de armas e armaduras e focado no domínio de um estilo.",
+      "image": "fighter"
+    },
+    "B": {
+      "description": "Clérigo: Você é um guerreiro que utiliza magia divina para punir inimigos e curar aliados, provendo suporte, proteção e orientação espiritual.",
+      "image": "cleric"
+    },
+    "C": {
+      "description": "Ladino: Você é ágil, habilidoso e preciso, especialista em subterfúgio, furtividade e enganação, preferindo astúcia ao confronto direto.",
+      "image": "rogue"
+    },
+    "D": {
+      "description": "Mago: Você é um estudioso das artes arcanas, procurando dominar a magia e seus mistérios, sempre buscando aprender novos feitiços.",
+      "image": "wizard"
+    }
+  }
+}
